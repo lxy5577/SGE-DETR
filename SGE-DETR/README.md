@@ -32,7 +32,7 @@ JEI-SGE-DETR/
 │   │   └── gcconv.py              # GCConv implementation
 │   └── nn/tasks.py                # minimal model parser and RT-DETR model
 ├── scripts/
-│   └── test\\\_modules.py
+│   └── test\_modules.py
 ```
 
 ## Experimental setting
