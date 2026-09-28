@@ -22,12 +22,10 @@ GCConv is inserted into the PAN bottom-up path to supplement local convolution w
 JEI-SGE-DETR/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── configs/
 │   ├── SGE-DETR.yaml              # final model used in the paper
 ├── ultralytics/
-│   ├── nn/modules/                # minimal RT-DETR base modules
-│   ├── nn/extra\_modules/
+│   ├── nn/modules/
 │   │   ├── cpo.py                 # CPO implementation
 │   │   ├── etb.py                 # ETB implementation
 │   │   └── gcconv.py              # GCConv implementation
