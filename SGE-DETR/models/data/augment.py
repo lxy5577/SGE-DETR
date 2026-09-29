@@ -1,5 +1,3 @@
-
-
 import math
 import random
 from copy import deepcopy
