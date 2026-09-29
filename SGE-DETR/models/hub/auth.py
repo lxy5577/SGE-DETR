@@ -1,5 +1,3 @@
-
-
 import requests
 
 from ultralytics.hub.utils import HUB_API_ROOT, HUB_WEB_ROOT, PREFIX, request_with_credentials
