@@ -1,4 +1,3 @@
-
 from ultralytics.engine.model import Model
 from ultralytics.nn.tasks import RTDETRDetectionModel
 
