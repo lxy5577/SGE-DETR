@@ -1,5 +1,3 @@
-
-
 import requests
 
 from ultralytics.data.utils import HUBDatasetStats
